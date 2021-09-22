@@ -1,0 +1,15 @@
+2021-09-23T00:06:05.726444
+
+            title             description    price
+0       Nokia 123           7 day battery   $24.99
+1      LG Optimus             3.2" screen   $57.99
+2  Samsung Galaxy      5 mpx. Android 5.0   $93.99
+3         Nokia X  Andoid, Jolla dualboot  $109.99
+4     Sony Xperia         GPS, waterproof  $118.99
+5     Ubuntu Edge          Sapphire glass  $499.99
+6          Iphone                   White  $899.99
+7          Iphone                  Silver  $899.99
+8          Iphone                   Black  $899.99
+********************************** 
+
+
